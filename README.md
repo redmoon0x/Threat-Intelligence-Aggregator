@@ -1,6 +1,6 @@
 # Threat Intelligence Aggregator
 
-Hi Supriya! 👋
+Hi  👋
 
 Here is the guide for the Threat Intelligence Aggregator tool. This tool is designed to help you process and organize Indication of Compromise (IOC) data from various sources automatically.
 
@@ -95,3 +95,4 @@ The project uses a **Modular Design** to keep things clean and separated.
 
 ---
 Happy Hunting & Coding! 🕵️‍♀️💻
+
