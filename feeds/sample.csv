@@ -1,0 +1,6 @@
+indicator,type
+192.168.1.100,ip
+10.0.0.5,ip
+example.com,domain
+db89bb5ceab87f9c0fcc2ab56c189c1e,md5
+invalid-ip-address,ip

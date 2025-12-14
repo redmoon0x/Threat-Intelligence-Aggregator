@@ -1,0 +1,18 @@
+[
+  {
+    "indicator": "192.168.1.100",
+    "type": "ip"
+  },
+  {
+    "indicator": "malicious.test",
+    "type": "domain"
+  },
+  {
+    "indicator": "http://evil.com/login",
+    "type": "url"
+  },
+  {
+    "indicator": "not-a-hash",
+    "type": "md5"
+  }
+]
